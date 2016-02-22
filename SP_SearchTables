@@ -1,7 +1,3 @@
-# SQL
-Just SQL Commands
-
-
 /****** Object:  StoredProcedure [dbo].[SP_SearchTables]    Script Date: 22/02/2016 12:06:11 ******/
 DROP PROCEDURE [dbo].[SP_SearchTables]
 GO
